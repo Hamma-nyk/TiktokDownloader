@@ -12,9 +12,10 @@ Tools tiktok video downloader without watermark
   - Run Tiktok Downloader.bat
   
 ### 🔥 Console Version
-<img width="400px" src="https://i.ibb.co/ZYmNyFZ/Picture2.png"/><br>
+<img width="400px" src="https://i.ibb.co/R2npVTR/photo-2023-02-21-19-00-31.jpg"/><br>
 
 #### Intallation:
+  - pip install --upgrade setuptools
   - pip install pyfiglet
   - pip install requests
   - pip install beautifulsoup4
